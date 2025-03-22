@@ -1,0 +1,6 @@
+requirements.txt
+
+ccxt
+requests
+python-dotenv
+textblob
